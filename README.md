@@ -1,12 +1,12 @@
 # Official-Message
 
-Certainly! Here's a combined README that includes both the HTML and JavaScript sections:
 
-Message Viewer
-Description
+
+# Message Viewer
+# Description
 This repository contains a simple HTML page designed to display a message along with a question and corresponding GIF. The message is meant to be viewed on a laptop or PC. Additionally, JavaScript code has been included to enhance the functionality of the page, adding interactive features such as changing the message and GIF on button clicks, moving the "No" button on hover, preventing right-clicks, and hiding an additional wrapper.
 
-Features
+# Features
 Display a message from Somnath.
 Ask a question: "Can I work from home?"
 Show a GIF related to the question.
@@ -19,7 +19,7 @@ Usage
 Open the HTML file in a web browser, preferably on a laptop or PC.
 Click the "Click to view" button to reveal Somnath's message.
 Answer the question by clicking either the "Yes" or "No" button.
-Explore additional interactive features added by JavaScript.
+
 
 
 Screenshots
@@ -29,7 +29,10 @@ Screenshots
 Prerequisites
 No special prerequisites are needed to run this project.
 
-Code Structure
-wrapper, question, gif, yesBtn, noBtn: Selects specific elements within the container for manipulation.
-Event Listeners: Listens for button clicks, mouseover events, and right-clicks to trigger corresponding actions.
-Hide Feature: Adds a button to hide an additional wrapper and show the main wrapper.
+# Code Structure
+wrapper, question, gif, yesBtn, noBtn:
+Selects specific elements within the container for manipulation.
+# Event Listeners: 
+Listens for button clicks, mouseover events, and right-clicks to trigger corresponding actions.
+# Hide Feature:
+Adds a button to hide an additional wrapper and show the main wrapper.
